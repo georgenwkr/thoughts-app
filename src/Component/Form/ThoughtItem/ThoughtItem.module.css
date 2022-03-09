@@ -1,0 +1,36 @@
+.thought-post {
+  border: 1px solid var(--black);
+  background-color: var(--black);
+  width: 15.625rem;
+  padding: 0.625rem;
+  margin: 1.6rem;
+}
+
+.tpost-head {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tpost-head h3 {
+  font-family: var(--font-s);
+  font-weight: 700;
+  color: var(--orng-d);
+  padding: 10px 0;
+}
+
+.tpost-head img {
+  width: 0.9375rem;
+  height: 0.9375rem;
+  cursor: pointer;
+}
+
+.thought-post p {
+  font-family: var(--font-s);
+  font-weight: 300;
+  color: var(--orng-d);
+  padding: 0.625rem 0;
+  min-height: 8.5rem;
+  line-height: 20px;
+}

@@ -1,0 +1,16 @@
+.footer {
+  height: 1.8rem;
+  border: 1px solid var(--black);
+  background-color: var(--black);
+  position: relative;
+  bottom: 0;
+  left: 0;
+}
+
+.footer p {
+  color: var(--orng-d);
+  text-align: center;
+  font-family: var(--font-s);
+  font-size: var(--fn-sm);
+  padding: 0.5375rem;
+}

@@ -1,0 +1,52 @@
+.form-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.thought-form {
+  border: 2px solid var(--black);
+  padding: 10px 10px 0 10px;
+}
+
+.username {
+  font-family: var(--font-s);
+  height: 30px;
+  width: 12.5rem;
+  border: none;
+  border-bottom: 1px solid #6b6b6b;
+  outline: none;
+}
+
+.write-thought {
+  font-family: var(--font-s);
+  padding-bottom: 7.5rem;
+  width: 12.5rem;
+  border: none;
+  outline: none;
+  overflow: hidden;
+  resize: none;
+}
+
+.think-btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.think-btn {
+  height: 1.875rem;
+  width: 5.625rem;
+  font-family: var(--font);
+  font-weight: 900;
+  text-align: center;
+  background-color: var(--orng-d);
+  border: 1px solid transparent;
+  margin: 0.3125rem 0;
+  cursor: pointer;
+}
+
+.think-btn:hover {
+  background-color: var(--orng-l);
+}
