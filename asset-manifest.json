@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thoughts-app/static/css/main.66577faf.css",
+    "main.js": "/thoughts-app/static/js/main.436ba46c.js",
+    "static/js/787.bfa27086.chunk.js": "/thoughts-app/static/js/787.bfa27086.chunk.js",
+    "index.html": "/thoughts-app/index.html",
+    "static/media/close-icon.svg": "/thoughts-app/static/media/close-icon.9addeba10eb4bbcc932872afc5bc7daf.svg",
+    "main.66577faf.css.map": "/thoughts-app/static/css/main.66577faf.css.map",
+    "main.436ba46c.js.map": "/thoughts-app/static/js/main.436ba46c.js.map",
+    "787.bfa27086.chunk.js.map": "/thoughts-app/static/js/787.bfa27086.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66577faf.css",
+    "static/js/main.436ba46c.js"
+  ]
+}
